@@ -14,11 +14,14 @@ Qualcomm Atheros AR9462 Wireless Network Adapter (w/ Bluetooth)
 VGA Webcam  
 Asus ATK Keyboard (PS2)  
 ELAN 1200 Trackpad  
+Conexant 20751/2  
   
 # Not working  
 Brightness keys  
 AirDrop  
-HDMI audio (untested)
+HDMI audio (untested)  
+SD Card reader (untested, won't bother)
+
 
 
 

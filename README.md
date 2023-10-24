@@ -1,5 +1,5 @@
 # Hackintosh EFI (OpenCore) for ASUS X452LAV  
-<span style="color:red">NOTE: Please make your own EFI instead of using a prebuilt like this</span> 
+## NOTE: Please make your own EFI instead of using a prebuilt like this  
 **Hardware info:**  
 Intel Core i3-4030u  
 Intel HD 4400  

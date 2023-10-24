@@ -12,7 +12,7 @@ Intel HD 4400
 Qualcomm Atheros AR8171/8175 PCI-E Gigabit Ethernet Controller (NDIS 6.30)  
 Qualcomm Atheros AR9462 Wireless Network Adapter (w/ Bluetooth)  
 VGA Webcam  
-Asus ATK Keyboard (PS2)
+Asus ATK Keyboard (PS2)  
 ELAN 1200 Trackpad  
   
 # Not working  

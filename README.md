@@ -1,5 +1,5 @@
 # Hackintosh EFI (OpenCore) for ASUS X452LAV  
-
+<a href="https://ibb.co/Q8VKFJH"><img src="https://i.ibb.co/n3yLsw1/nh-ch-p-M-n-h-nh-2023-10-24-l-c-13-12-05.png" alt="nh-ch-p-M-n-h-nh-2023-10-24-l-c-13-12-05" border="0"></a>
 
 ## NOTE: Please make your own EFI instead of using a prebuilt like this  
 
